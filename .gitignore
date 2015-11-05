@@ -42,9 +42,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-*.xbt
-*.pyo
-/skin.titan.helix/extras/backgrounds/*.db
-/mario/**
-*.db
